@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "165369666388",
+    "project_id": "aves10ids1",
+    "storage_bucket": "aves10ids1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165369666388:android:cf79f6110e5a6a2c0246c1",
+        "android_client_info": {
+          "package_name": "com.uttec.aves.datosdecimounoa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPAEw2iIdh1tZLu2LWyAWHtbx7WsIzaQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165369666388:android:fa812baf000a05260246c1",
+        "android_client_info": {
+          "package_name": "com.uttec.aves.gastosdecimouno"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPAEw2iIdh1tZLu2LWyAWHtbx7WsIzaQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+.rounded-sidebar {
+    border-radius: 80px; /* Ajusta el valor para aumentar o reducir el redondeado */
+    overflow: hidden; /* Esto ayuda a evitar que el contenido se salga de las esquinas redondeadas */
+}
+
+
+.small-menu-item {
+    font-size: 0.8em; /* Ajusta el tamaño de la fuente según lo necesites */
+    padding: 5px; /* Ajusta el padding según sea necesario */
+}
+
+
+.brand-image-lg {
+    width: 300px; /* Ajusta el ancho según sea necesario */
+    height: auto; /* Mantiene la relación de aspecto */
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "338368261295",
+    "project_id": "integradora-49134",
+    "storage_bucket": "integradora-49134.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338368261295:android:48eab0cbc4e097d591785a",
+        "android_client_info": {
+          "package_name": "com.WIGA.integradoradentista"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD96ArxGLS4LpgGRADr-qi_kiW0gJ_-5bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338368261295:android:d8e0efa86cec6e2d91785a",
+        "android_client_info": {
+          "package_name": "com.WIGA.integradorapaciente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD96ArxGLS4LpgGRADr-qi_kiW0gJ_-5bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
